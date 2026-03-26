@@ -1,3 +1,4 @@
 screenshots/
 screenshots_*/
 .playwright-cli/
+.DS_Store
